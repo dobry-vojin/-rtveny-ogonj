@@ -1,0 +1,29 @@
+{
+  "authentication": {
+    "title": "Вход",
+    "submitButton": "Войти"
+  },
+  "navigation": {
+    "passwordsManager": "Менеджер паролей",
+    "home": "Главная",
+    "chat": "Чат",
+    "signUp": "Регистрация",
+    "logIn": "Вход",
+    "dictionary": "Словарь",
+    "wordsLearning": "Изучение слов",
+    "animations": "Анимации"
+  },
+  "chat": {
+    "sendButton": "Отправить",
+    "messageInputPlaceholder": "Введите сообщение"
+  },
+  "dictionary": {
+    "title": "Словарь",
+    "addNewWordButton": "Добавить",
+    "wordInputPlaceholder": "Введите слово",
+    "translationInputPlaceholder": "Введите перевод",
+    "partOfSpeechInputPlaceholder": "Часть речи"
+  },
+  "usernameLabel": "Имя пользователя",
+  "passwordLabel": "Пароль"
+}

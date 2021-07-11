@@ -1,0 +1,29 @@
+{
+  "authentication": {
+    "title": "Login",
+    "submitButton": "Login"
+  },
+  "navigation": {
+    "passwordsManager": "Passwords manager",
+    "home": "Home",
+    "chat": "Chat",
+    "signUp": "Sign up",
+    "logIn": "Log in",
+    "dictionary": "Dictionary",
+    "wordsLearning": "Words learning",
+    "animations": "Animations"
+  },
+  "chat": {
+    "sendButton": "Send",
+    "messageInputPlaceholder": "Type a message"
+  },
+  "dictionary": {
+    "title": "Dictionary",
+    "addNewWordButton": "Add",
+    "wordInputPlaceholder": "Type a word",
+    "translationInputPlaceholder": "Type the translation",
+    "partOfSpeechInputPlaceholder": "Part of speech"
+  },
+  "usernameLabel": "Username",
+  "passwordLabel": "Password"
+}
